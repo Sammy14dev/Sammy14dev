@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Sammy14dev
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning Java and kotlin
+- 📫 How to reach me by email: uwemsamuel013@gmail.com
